@@ -1,4 +1,4 @@
-box: ainoya/golang-goxc@0.2.0
+box: ainoya/golang-goxc
 build:
     steps:
         - script:
